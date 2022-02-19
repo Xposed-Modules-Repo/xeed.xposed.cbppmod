@@ -1,3 +1,5 @@
+# Physical Button Master Control
+
 **When the screen is off/locked/on this module allows you to:**
 - send media play signals
 - send media next/previous signals
@@ -14,7 +16,7 @@
 - Launch the selected player before sending signals
 
 Features can be greatly customized to suit all possible needs!
-Compatible with all Android versions from **7.1** to **11**.
+Compatible with all Android versions from **7.1** to **12**.
 
 If you want to help other people see this app in your language, feel free to contribute on Crowdin:
 [PBMC translation project on Crowdin](https://crowdin.com/project/physical-button-music-control)
